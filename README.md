@@ -1,1 +1,1 @@
-Master 에 있음
+Master branch에 있음
